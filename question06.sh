@@ -1,3 +1,2 @@
-mkdir dir6
-cd dir6
-
+git add -u
+git commit -m "Done"

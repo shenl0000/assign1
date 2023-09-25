@@ -1,3 +1,1 @@
-touch flie7
-mv flie7 file7
-
+git add *.py
